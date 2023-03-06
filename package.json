@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "npm install --omit=dev",
-    "start": "node index.ts",
+    "start": "node index.js",
     "dev": "nodemon index.js",
     "test": "mocha test/*.spec.js",
     "test:see-jokes": "mocha test/see-jokes.spec.js",
