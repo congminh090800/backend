@@ -5,6 +5,7 @@ Just run `npm install` and then `npm run test:algorithm`
 # BACKEND PART
 
 Session expiration time: 1 hour
+Note: this project using memory store as session store instead of regular store like redis,...  for simplicity.
 
 ### FOR LOCAL RUN
 Create `.env` file and copy `.env.example` content to newly created file.
