@@ -23,7 +23,7 @@ npm run test (or any test specified in package.json)
 #### Health check: http://localhost:3000/health  
 <br/>
 
-### FOR REMOTE HOST
+### FOR REMOTE HOST (might be suffered from server sleep due to free plan, just wait for it to boot up) 
 
-#### Swagger link: http://localhost:3000/api-docs
-#### Health check: http://localhost:3000/health  
+#### Swagger link: https://zens-backend.onrender.com/api-docs
+#### Health check: https://zens-backend.onrender.com/health  
